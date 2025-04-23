@@ -1,7 +1,7 @@
 exports.handler = async (event, context) => {
     try {
         // Get the message from the event
-        const message = event.message || 'Hello from Kalab!';
+        const message = event.message || 'Hello from Kalab! Dereje';
         
         // Log the message
         console.log(`Received message: ${message}`);
