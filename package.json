@@ -1,0 +1,12 @@
+{
+  "name": "lambda-function",
+  "version": "1.0.0",
+  "description": "AWS Lambda function with CodePipeline deployment",
+  "main": "lambda_function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1499.0"
+  }
+} 
